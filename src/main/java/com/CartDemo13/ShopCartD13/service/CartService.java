@@ -1,4 +1,4 @@
-package com.CartDemo13.ShopCartD13.Service;
+package com.CartDemo13.ShopCartD13.service;
 
 import java.util.List;
 
